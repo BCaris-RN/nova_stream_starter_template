@@ -9,4 +9,6 @@ This project serves as a **architectural proof-of-concept**, focusing on:
 
 _Note: This is a frontend starter kit/template intended for portfolio demonstration, not a fully functional streaming service._
 
-[![App Screenshot](assets/NovaStream_Hub_Architectural_Blueprint-1.png)](assets/NovaStream_Hub_Architectural_Blueprint.pdf)
+[![NovaStream Cover](assets/slides/NovaStream_Hub_Architectural_Blueprint-1.png)](assets/NovaStream_Hub_Architectural_Blueprint.pdf)
+
+[![NovaStream Features](assets/slides/NovaStream_Hub_Architectural_Blueprint-2.png)](assets/NovaStream_Hub_Architectural_Blueprint.pdf)
